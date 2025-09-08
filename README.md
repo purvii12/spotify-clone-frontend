@@ -42,11 +42,13 @@ Try the deployed project online:
 
 ---
 
-## 📂 File Structure
-/assets # Images, icons, and videos <br>
-/index.html # Main HTML file <br>
-/style.css # Stylesheet for design <br>
-/README.md # Project description <br>
+## File Structure
+.
+├── assets/      # Images, icons, and videos
+├── index.html   # Main HTML file
+├── style.css    # Stylesheet for design
+└── README.md    # Project description
+
 
 
 ---
