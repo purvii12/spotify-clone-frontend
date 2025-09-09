@@ -4,7 +4,7 @@ A sleek, responsive, and visually appealing Spotify Clone built using HTML5 and 
 
 ---
 
-## 🖼️ Project Screenshot
+##  Project Screenshot
 
 ![Spotify Clone Screenshot](./assets/spotifyclone-photo.png)  
 *Screenshot showing the main UI of the Spotify Clone.*
